@@ -2,7 +2,7 @@
 
 A small, focused quiz for testing HTML, CSS, and JavaScript basics. No frameworks on the logic side — just clean HTML, CSS, and vanilla JavaScript with a glass-style UI you can open in any browser.
 
-![Quiz app preview](img/quiz.png)
+**Live demo:** [https://kamycoding.github.io/quiz-app/](https://kamycoding.github.io/quiz-app/)
 
 ## What it does
 
@@ -44,7 +44,6 @@ quiz-app/
 │   ├── true.mp3    # correct answer
 │   └── wrong.mp3   # wrong answer
 └── img/
-    ├── quiz.png    # readme preview
     └── icon/       # logos and character SVGs
 ```
 
